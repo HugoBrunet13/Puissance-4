@@ -1,2 +1,2 @@
-# Puissance-4
-Implémentation en C# du jeu puissance 4 
+# Connect-4 game C#
+
